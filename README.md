@@ -1,5 +1,6 @@
 # Ссылки на google colab ноутбуки
 https://colab.research.google.com/drive/1MZye8tt9iDPMFVvoYJH4lhUjZE9IB6xb?usp=sharing
+
 https://colab.research.google.com/drive/1V9TdDpRIZXmtepcDaiN5QIJ0hjrr1usY?usp=sharing
 
 # Статистика
